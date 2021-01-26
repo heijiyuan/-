@@ -1,0 +1,18 @@
+/* 注册页面与登录页面共同的样式 */
+.mainwindow{
+    width:540px;
+    height: 360px;
+    margin: 100px auto;
+    border: 1px solid #d9d9d9;
+    background-color: #e5e6e9;
+}
+.title{
+    /* display: inline-block; */
+    text-align: center;
+    margin: 50px auto;
+    font-size: 30px;
+    font-weight: 700;
+}
+button{
+    width: 269px;
+}
