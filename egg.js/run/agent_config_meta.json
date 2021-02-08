@@ -1,0 +1,326 @@
+{
+  "keys": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+  "middleware": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+  "view": {
+    "mapping": {
+      ".html": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js"
+    },
+    "root": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "cache": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+    "allowMethods": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+      "type": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+      "port": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+      "user": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+      "password": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+      "database": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js"
+    },
+    "app": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+    "agent": "D:\\没头发的不归路\\egg\\egg-first\\config\\config.default.js",
+    "default": {
+      "database": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js",
+      "file": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "ejs": {
+    "root": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "cache": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.local.js",
+    "debug": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "strict": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js"
+  },
+  "env": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "name": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "cookies": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "proxy": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "version": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "description": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "private": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-cors": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-mysql": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-view-ejs": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "autod-egg": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-bin": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-ci": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "egg-mock": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "eslint": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "stop": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "dev": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "debug": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "test": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "test-local": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "cov": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "lint": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "ci": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "autod": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "url": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "author": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "license": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "HOME": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "rundir": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "notFound": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "sitefile": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "middlewares": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "httpClient": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "encoding": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "formLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "textLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "strict": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "depth": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "encoding": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "env": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "level": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "outputJSON": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "buffer": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "appLogName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "coreLogName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "agentLogName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "errorLogName": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "logging": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "port": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+      "hostname": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\没头发的不归路\\egg\\egg-first\\node_modules\\_egg@2.29.1@egg\\config\\config.default.js"
+}

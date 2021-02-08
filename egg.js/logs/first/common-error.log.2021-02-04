@@ -1,0 +1,98 @@
+2021-02-04 13:11:10,251 ERROR 22620 nodejs.ClusterClientNoResponseError: client no response in 3381934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\没头发的不归路\egg\egg-first\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 22620
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 14:07:25,085 ERROR 16168 [-/127.0.0.1/-/39ms GET /] nodejs.ReferenceError: a is not defined
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:8)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+
+pid: 16168
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 18:31:29,320 ERROR 6660 [-/127.0.0.1/-/35ms GET /] nodejs.ReferenceError: app is not defined
+    at EggService.index (D:\没头发的不归路\egg\egg-first\app\service\egg.js:7:16)
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:35)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 6660
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 18:32:35,784 ERROR 23712 [-/127.0.0.1/-/43ms GET /] nodejs.TypeError: Cannot read property 'select' of undefined
+    at EggService.index (D:\没头发的不归路\egg\egg-first\app\service\egg.js:7:33)
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:35)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 23712
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 18:39:55,283 ERROR 23960 [-/127.0.0.1/-/13ms GET /] nodejs.TypeError: Cannot read property 'select' of undefined
+    at EggService.index (D:\没头发的不归路\egg\egg-first\app\service\egg.js:7:33)
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:35)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 23960
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 18:40:44,029 ERROR 5860 [-/127.0.0.1/-/13ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at EggService.index (D:\没头发的不归路\egg\egg-first\app\service\egg.js:7:32)
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:35)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 5860
+hostname: DESKTOP-SB2DNI0
+
+2021-02-04 18:41:24,588 ERROR 23036 [-/127.0.0.1/-/12ms GET /] nodejs.ReferenceError: app is not defined
+    at EggService.index (D:\没头发的不归路\egg\egg-first\app\service\egg.js:7:16)
+    at HomeController.index (D:\没头发的不归路\egg\egg-first\app\controller\home.js:7:35)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\没头发的不归路\egg\egg-first\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\没头发的不归路\egg\egg-first\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\没头发的不归路\egg\egg-first\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 23036
+hostname: DESKTOP-SB2DNI0
+
+2021-02-05 10:25:31,964 ERROR 20040 nodejs.ClusterClientNoResponseError: client no response in 39241984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\没头发的不归路\egg\egg-first\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 20040
+hostname: DESKTOP-SB2DNI0
+
